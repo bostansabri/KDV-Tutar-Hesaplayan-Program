@@ -1,5 +1,6 @@
 //www.patika.dev
 
+
 import java.util.Scanner;
 
 public class main {
